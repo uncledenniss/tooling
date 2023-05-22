@@ -77,3 +77,4 @@ Default web root:
 ## checking jenkins build 
 ## dynamic ip change caused build fail
 ## checking if jenkins build will trigger
+## Checking to see if the ssh don dey push
