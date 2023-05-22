@@ -76,3 +76,4 @@ Default web root:
 ## na the changing be this run town update
 ## checking jenkins build 
 ## dynamic ip change caused build fail
+## checking if jenkins build will trigger
