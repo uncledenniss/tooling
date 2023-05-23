@@ -78,3 +78,4 @@ Default web root:
 ## dynamic ip change caused build fail
 ## checking if jenkins build will trigger
 ## Checking to see if the ssh don dey push
+## yesterday the build was unstable reviewed ipadd checking today
