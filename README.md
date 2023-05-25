@@ -81,3 +81,4 @@ Default web root:
 ## yesterday the build was unstable reviewed ipadd checking today
 ## preivous build threw unstable permission error disabled password login option for nfs server going to check if it works 
 ## still strugglin with the build 
+## attempts 5/25
